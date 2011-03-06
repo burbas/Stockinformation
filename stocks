@@ -1,0 +1,2 @@
+./stockinfo -s 216862 -a 414 -ip 16.9 -lp 7.0 -hp 27.0
+./stockinfo -s 216904 -a 46 -ip 152.0 -lp 73.0 -hp 169.0
